@@ -72,6 +72,7 @@
 | [F58 合計特殊出生率は、年齢のどこで下がったのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F58_tfr_age_tempo) | 年齢別の分解・Bongaarts–Feeney のテンポ調整 |
 | [F59 学力調査の県の順位は、毎年どれくらい入れ替わるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F59_test_rank_stability) | 順位の安定性・標本誤差による順位の区間・分散分解 |
 | [F60 去年いちばん悪かった県は、今年よくなるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F60_regression_to_mean) | 平均への回帰・見かけの施策効果の補正・シミュレーション |
+| [F62 死亡率は10年で上がったのか、下がったのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F62_simpson_standardization) | 年齢調整（直接法・SMR）・Kitagawa 分解・シンプソンのパラドックス |
 
 ### ポートフォリオ
 
