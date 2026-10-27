@@ -68,6 +68,7 @@
 | [F54 働く女性の賃金は、働いている人だけを見ると高く見えるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F54_heckman_women_wage) | 選択バイアスの補正（Heckman の2段階、集計データ版） |
 | [F55 ベイズで出生数を予測すると、予測の幅はどう変わるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F55_births_bsts) | ベイズ構造時系列（PyMC）・予測区間のバックテスト |
 | [F56 住宅価格指数を「繰り返し売買法」で作ると、ヘドニックと同じになるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F56_repeat_sales_index) | 繰り返し売買法（Case–Shiller）・ヘドニック指数との比較・築年の補正 |
+| [F57 インフルエンザの流行は、SIRモデルで再現できるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F57_flu_sir) | SIR／SEIR モデル・再生産数・山の予測 |
 | [F58 合計特殊出生率は、年齢のどこで下がったのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F58_tfr_age_tempo) | 年齢別の分解・Bongaarts–Feeney のテンポ調整 |
 
 ### ポートフォリオ
