@@ -52,6 +52,7 @@
 | [F38 観光客が1兆円使うと、日本全体の生産はいくら増えるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F38_input_output_tourism) | 産業連関分析（逆行列・1次／2次波及・雇用誘発） |
 | [F39 物価・賃金・金利は、どれがどれを動かしているのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F39_causal_discovery_macro) | 因果探索（VAR-LiNGAM・PC）とグレンジャー因果の比較 |
 | [F40 所得の格差は「県の間」と「県の中」のどちらにあるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F40_inequality_decomposition) | タイル指数の分解（県の間・県の中）・ジニ係数の分解 |
+| [F42 季節調整を自分でやると、公表値と同じになるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F42_seasonal_adjustment) | X-13ARIMA-SEATS で公表値を再現・曜日／祝日の調整・STL との比較 |
 
 ### ポートフォリオ
 
