@@ -47,6 +47,7 @@
 | [F33 人の移動は距離でどれだけ減るのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F33_migration_gravity) | 重力モデル（PPML・固定効果）・対数の最小二乗法との比較 |
 | [F34 同じお金で、どの市町村が多くのサービスを出しているか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F34_municipal_efficiency) | 包絡分析法（DEA）・確率的フロンティア（SFA）・手法による順位の違い |
 | [F35 景気の「山」と「谷」をデータだけで当てられるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F35_business_cycle_markov) | マルコフ切り替えモデル・景気基準日付との比較・リアルタイム判定 |
+| [F36 全国と47都道府県の予測を、足し算が合うようにそろえると？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F36_hierarchical_forecast) | 階層時系列予測の整合（MinT・ボトムアップ・トップダウン）・ローリング予測 |
 | [F37 地価の予測に「この範囲に9割入る」を付けられるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F37_conformal_land_price) | コンフォーマル予測（分割・CQR）・空間ブロックCVでの当たり方 |
 | [F39 物価・賃金・金利は、どれがどれを動かしているのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F39_causal_discovery_macro) | 因果探索（VAR-LiNGAM・PC）とグレンジャー因果の比較 |
 
