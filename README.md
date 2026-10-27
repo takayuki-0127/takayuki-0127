@@ -46,6 +46,7 @@
 | [F32 所得の高い町と低い町で、効いている要因は同じか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F32_income_quantile) | 分位点回帰・ブートストラップ |
 | [F33 人の移動は距離でどれだけ減るのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F33_migration_gravity) | 重力モデル（PPML・固定効果）・対数の最小二乗法との比較 |
 | [F34 同じお金で、どの市町村が多くのサービスを出しているか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F34_municipal_efficiency) | 包絡分析法（DEA）・確率的フロンティア（SFA）・手法による順位の違い |
+| [F35 景気の「山」と「谷」をデータだけで当てられるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F35_business_cycle_markov) | マルコフ切り替えモデル・景気基準日付との比較・リアルタイム判定 |
 
 ### ポートフォリオ
 
