@@ -70,6 +70,7 @@
 | [F56 住宅価格指数を「繰り返し売買法」で作ると、ヘドニックと同じになるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F56_repeat_sales_index) | 繰り返し売買法（Case–Shiller）・ヘドニック指数との比較・築年の補正 |
 | [F57 インフルエンザの流行は、SIRモデルで再現できるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F57_flu_sir) | SIR／SEIR モデル・再生産数・山の予測 |
 | [F58 合計特殊出生率は、年齢のどこで下がったのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F58_tfr_age_tempo) | 年齢別の分解・Bongaarts–Feeney のテンポ調整 |
+| [F59 学力調査の県の順位は、毎年どれくらい入れ替わるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F59_test_rank_stability) | 順位の安定性・標本誤差による順位の区間・分散分解 |
 | [F60 去年いちばん悪かった県は、今年よくなるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F60_regression_to_mean) | 平均への回帰・見かけの施策効果の補正・シミュレーション |
 
 ### ポートフォリオ
