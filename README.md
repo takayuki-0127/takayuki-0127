@@ -62,6 +62,7 @@
 | [F48 ガソリンが10%上がると、買う量は何%減るか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F48_gasoline_elasticity) | 需要の価格弾力性・操作変数法・短期と長期 |
 | [F49 平均寿命の県の差は、何歳の死亡で生まれているのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F49_life_expectancy_decomposition) | 生命表の自作・Arriaga 法（年齢別分解） |
 | [F50 GDP の速報は、あとでどれだけ直されるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F50_gdp_revisions) | リアルタイムデータ分析（速報と確報の改定）・偏りの検定 |
+| [F51 保育所の整備は、出生率に「女性の就業」を通じて効いたのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F51_childcare_mediation) | 媒介分析・感度分析 |
 | [F52 インフルエンザは、どの県からどの県へ広がるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F52_influenza_spread) | 時空間の自己回帰・Moran's I・順位の一貫性 |
 | [F53 日銀の声明文は、いつ「強気」から「弱気」に変わったか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F53_boj_statement_tone) | テキストの感情スコア（辞書法・文の埋め込み） |
 
