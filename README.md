@@ -54,6 +54,7 @@
 | [F40 所得の格差は「県の間」と「県の中」のどちらにあるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F40_inequality_decomposition) | タイル指数の分解（県の間・県の中）・ジニ係数の分解 |
 | [F41 欠けているデータを埋めると、結論は変わるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F41_missing_data_mi) | 多重代入法・欠測の仕組みのシミュレーション |
 | [F42 季節調整を自分でやると、公表値と同じになるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F42_seasonal_adjustment) | X-13ARIMA-SEATS で公表値を再現・曜日／祝日の調整・STL との比較 |
+| [F43 金利が上がると、何か月後に何が動くのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F43_local_projections) | 局所射影とVARの比較・再帰的識別 |
 
 ### ポートフォリオ
 
