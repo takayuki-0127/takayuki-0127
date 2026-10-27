@@ -80,6 +80,7 @@
 | [F66 統計の推計方法が変わると、数字はどれだけ動くのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F66_series_breaks) | 系列の段差の推定・接続の方法（平行移動・比率・三角修正）の比較 |
 | [F67 気温が1℃上がると、電気の使用量は何%増えるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F67_temp_power_gam) | 一般化加法モデル（GAM）・スプライン回帰・時刻別の比較 |
 | [F68 訪日客の「来る季節」は、国によっていくつの型に分かれるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F68_inbound_seasonality_clusters) | 時系列クラスタリング（k-means・DTW・k-shape）・安定性の検証 |
+| [F69 統計表の「-」は0なのか、欠測なのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F69_data_quality) | データ品質の点検（記号・0・合計・桁ずれ・単位の自動チェック） |
 | [F70 同じ数字でも、グラフの見せ方で印象はどこまで変わるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F70_chart_honesty) | lie factor による誇張の数値化・見かけの相関のシミュレーション |
 
 ### ポートフォリオ
