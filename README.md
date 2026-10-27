@@ -76,6 +76,7 @@
 | [F62 死亡率は10年で上がったのか、下がったのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F62_simpson_standardization) | 年齢調整（直接法・SMR）・Kitagawa 分解・シンプソンのパラドックス |
 | [F63 「前年比」と「前月比」、景気の変わり目を早く見つけられるのはどちらか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F63_yoy_vs_mom) | 転換点の判定の比較（遅れ・空振り）・相互相関・シミュレーション |
 | [F65 医師が多い県ほど、平均寿命は長いのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F65_doctors_life_dag) | DAG と裏口基準で調整変数を選ぶ・256通りの仕様曲線 |
+| [F66 統計の推計方法が変わると、数字はどれだけ動くのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F66_series_breaks) | 系列の段差の推定・接続の方法（平行移動・比率・三角修正）の比較 |
 
 ### ポートフォリオ
 
