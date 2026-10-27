@@ -42,6 +42,7 @@
 | [F27 市区町村の死亡率の地図を、ぶれずに描く](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F27_disease_map_bym2) | 空間ベイズ（BYM2、PyMC）・公表のベイズ推定値との比較 |
 | [F28 法人は何年続くのか？ 150万法人の登記を生存分析で追う](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F28_corporate_survival) | 生存分析（Kaplan–Meier・Cox 比例ハザード・比例ハザードの確認） |
 | [F29 北陸新幹線の金沢延伸で、石川県の宿泊客はどれだけ増えたか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F29_shinkansen_sdid) | 合成コントロール・Synthetic DID・Augmented SCM・プラセボ |
+| [F31 60歳・65歳で、働く人はどれだけ減るのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F31_retirement_rdd) | 回帰不連続（年齢）・偽の境界（プラセボ） |
 
 ### ポートフォリオ
 
