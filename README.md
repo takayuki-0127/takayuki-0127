@@ -56,6 +56,7 @@
 | [F42 季節調整を自分でやると、公表値と同じになるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F42_seasonal_adjustment) | X-13ARIMA-SEATS で公表値を再現・曜日／祝日の調整・STL との比較 |
 | [F43 金利が上がると、何か月後に何が動くのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F43_local_projections) | 局所射影とVARの比較・再帰的識別 |
 | [F44 出生率のトレンドはいつ折れたのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F44_structural_breaks) | 構造変化の検定（Bai–Perron・CUSUM） |
+| [F45 将来人口の推計は、自分で再現できるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F45_population_projection) | コーホート要因法の自作・2025年国勢調査での答え合わせ |
 | [F47 都市ごとの「食の好み」を、行列分解で取り出せるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F47_food_nmf) | 非負値行列因子分解（NMF）・安定性の確認・PCA との比較 |
 
 ### ポートフォリオ
