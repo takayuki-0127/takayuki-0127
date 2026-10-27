@@ -83,6 +83,7 @@
 | [F69 統計表の「-」は0なのか、欠測なのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F69_data_quality) | データ品質の点検（記号・0・合計・桁ずれ・単位の自動チェック） |
 | [F70 同じ数字でも、グラフの見せ方で印象はどこまで変わるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F70_chart_honesty) | lie factor による誇張の数値化・見かけの相関のシミュレーション |
 | [F71 都道府県の所得の差は、縮まっているのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F71_income_convergence) | β・σ収束、動学パネル GMM（差分・system） |
+| [F72 家計は物価が何%上がると思っているのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F72_inflation_expectations_cp) | Carlson–Parkin 法・最尤法・実績との比較 |
 
 ### ポートフォリオ
 
