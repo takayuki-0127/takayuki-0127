@@ -92,6 +92,7 @@
 | [F78 産業がばらけている町は、不景気に強いのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F78_industry_portfolio) | 多様性指数・バーティク・産業ポートフォリオのぶれ |
 | [F79 会社の終わり方は「閉鎖」か「合併」か？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F79_closure_vs_merger) | 競合リスク（累積発生関数・Fine–Gray） |
 | [F80 47都道府県×100指標の「有意な差」はいくつ偶然か？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F80_multiple_comparisons) | 多重比較（Bonferroni・Holm・FDR） |
+| [F81 通勤で町の外へ出る人が多いほど、子どもは少ないのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F81_commute_gps) | 一般化傾向スコア（連続処置・用量反応曲線） |
 
 ### ポートフォリオ
 
