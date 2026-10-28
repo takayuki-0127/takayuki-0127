@@ -106,6 +106,7 @@
 | [F92 電力需要の「上振れ」はどこまで見込めばよいか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F92_power_quantile_forecast) | 分位点予測（分割コンフォーマル・分位点回帰・LightGBM の分位点損失）・カバー率の評価 |
 | [F93 PDF の統計表を機械で読むと、どれくらい間違えるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F93_pdf_table_extraction) | PDF の表の抽出（13通り）の精度評価・検算の自動化・読み間違いの検出率 |
 | [F94 市町村合併をどう扱うかで、20年の推移の分析は変わるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F94_municipal_merger_panel) | 新旧の市町村の対応表（廃置分合の記録からのレコードリンケージ）・按分・扱い方による結果の違い |
+| [F95 新幹線の効果は、隣の県にもこぼれたのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F95_shinkansen_spillover) | 空間スピルオーバーの差の差（隣・隣の隣・距離帯）・Synthetic DID・プラセボ・F29 との比較 |
 
 ### ポートフォリオ
 
