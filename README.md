@@ -87,6 +87,7 @@
 | [F73 街の人の「景気の声」は、数字より先に動くか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F73_watcher_text_tone) | テキストの感情スコア（辞書法・文の埋め込み）・DI との比較 |
 | [F74 観測点のない場所の気温を、どこまで当てられるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F74_temperature_kriging) | クリギング・回帰クリギング・LightGBM の比較、空間ブロック CV |
 | [F76 所得が高い県は、ずっと高いままか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F76_income_mobility_markov) | 順位のマルコフ遷移行列・移動性の指標・定常分布 |
+| [F77 今の人の流れが続くと、人口の分布は最後にどうなるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F77_migration_markov) | 人口移動のマルコフ連鎖・定常分布・収束の速さ |
 
 ### ポートフォリオ
 
