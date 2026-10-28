@@ -101,6 +101,7 @@
 | [F87 結婚が減ったのは「時代」のせいか「世代」のせいか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F87_marriage_apc) | 年齢・時代・コホート（APC）分解と識別の問題 |
 | [F88 携帯料金の値下げは、物価をどれだけ下げたか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F88_mobile_fee_rdit) | 時間の回帰不連続（RDiT）・寄与度・プラセボ |
 | [F89 最低賃金の効果、これまでの推定をまとめると？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F89_minwage_meta) | メタ分析（固定効果・ランダム効果・フォレストプロット）・推定値の選び方の感度・検出力 |
+| [F90 月次の統計で、四半期のGDPをどこまで当てられるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F90_midas_nowcast) | MIDAS 回帰・ブリッジ方程式・DFM との比較（疑似リアルタイムのナウキャスト） |
 
 ### ポートフォリオ
 
