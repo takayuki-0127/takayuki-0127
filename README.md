@@ -115,6 +115,7 @@
 | [F101 物価と賃金は、長い目で見ると一緒に動いているのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F101_price_wage_cointegration) | 共和分（Engle–Granger・Johansen）・誤差修正モデル |
 | [F102 円安が物価に効くのは、円安が大きいときだけか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F102_fx_threshold_passthrough) | 閾値 VAR・一般化インパルス応答・状態で分けた局所射影 |
 | [F103 電力需要や物価の「長い記憶」は、どれくらい続くか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F103_long_memory) | 長期記憶（ARFIMA・局所Whittle・DFA・ハースト指数） |
+| [F105 閉鎖を数年おきの調査でしか確かめられないと、生存曲線はどこまでずれるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F105_interval_censoring) | 区間打ち切りの生存分析（Turnbull 推定・区間尤度のパラメトリック・比例ハザード） |
 
 ### ポートフォリオ
 
