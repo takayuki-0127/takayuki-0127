@@ -112,6 +112,7 @@
 | [F98 大きな災害のあと、宿泊客はどれくらいで戻るのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F98_disaster_lodging_recovery) | 複数の事例をそろえたイベントスタディ・プラセボの帯・回復の基準の比較 |
 | [F99 作るものを変えると、カロリーの自給率はどこまで上がるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F99_food_self_sufficiency_lp) | 線形計画法・前提を変えたシナリオの比較・双対価格 |
 | [F100 同じ問いを5つの手法で分析すると、答えはそろうのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F100_five_methods_one_question) | 回帰・固定効果・マッチング・DML・空間回帰の比較・仕様の曲線 |
+| [F101 物価と賃金は、長い目で見ると一緒に動いているのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F101_price_wage_cointegration) | 共和分（Engle–Granger・Johansen）・誤差修正モデル |
 
 ### ポートフォリオ
 
