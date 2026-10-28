@@ -107,6 +107,7 @@
 | [F93 PDF の統計表を機械で読むと、どれくらい間違えるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F93_pdf_table_extraction) | PDF の表の抽出（13通り）の精度評価・検算の自動化・読み間違いの検出率 |
 | [F94 市町村合併をどう扱うかで、20年の推移の分析は変わるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F94_municipal_merger_panel) | 新旧の市町村の対応表（廃置分合の記録からのレコードリンケージ）・按分・扱い方による結果の違い |
 | [F95 新幹線の効果は、隣の県にもこぼれたのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F95_shinkansen_spillover) | 空間スピルオーバーの差の差（隣・隣の隣・距離帯）・Synthetic DID・プラセボ・F29 との比較 |
+| [F96 e-Stat の数万の統計表から、欲しい表をすぐ探せるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F96_estat_semantic_search) | 表題の文埋め込み（ruri-v3）による意味検索・BM25 との比較・検索精度の評価（Hit@10・MRR） |
 | [F97 「前年比+1%」は、本当に増えたと言えるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F97_sampling_error_yoy) | 公表された標準誤差率による前年比・前月差の判定・見つけられる最小の変化・標本の重なりの扱い |
 | [F98 大きな災害のあと、宿泊客はどれくらいで戻るのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F98_disaster_lodging_recovery) | 複数の事例をそろえたイベントスタディ・プラセボの帯・回復の基準の比較 |
 | [F99 作るものを変えると、カロリーの自給率はどこまで上がるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F99_food_self_sufficiency_lp) | 線形計画法・前提を変えたシナリオの比較・双対価格 |
