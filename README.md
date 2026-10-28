@@ -104,6 +104,7 @@
 | [F90 月次の統計で、四半期のGDPをどこまで当てられるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F90_midas_nowcast) | MIDAS 回帰・ブリッジ方程式・DFM との比較（疑似リアルタイムのナウキャスト） |
 | [F91 機械学習の「何が効いているか」は、手法で答えが変わるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F91_interpretation_methods) | SHAP・並べ替え重要度・PDP・ALE の比較・相関する変数の落とし穴・人工データでの検証 |
 | [F92 電力需要の「上振れ」はどこまで見込めばよいか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F92_power_quantile_forecast) | 分位点予測（分割コンフォーマル・分位点回帰・LightGBM の分位点損失）・カバー率の評価 |
+| [F93 PDF の統計表を機械で読むと、どれくらい間違えるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F93_pdf_table_extraction) | PDF の表の抽出（13通り）の精度評価・検算の自動化・読み間違いの検出率 |
 | [F94 市町村合併をどう扱うかで、20年の推移の分析は変わるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F94_municipal_merger_panel) | 新旧の市町村の対応表（廃置分合の記録からのレコードリンケージ）・按分・扱い方による結果の違い |
 
 ### ポートフォリオ
