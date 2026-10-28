@@ -90,6 +90,7 @@
 | [F76 所得が高い県は、ずっと高いままか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F76_income_mobility_markov) | 順位のマルコフ遷移行列・移動性の指標・定常分布 |
 | [F77 今の人の流れが続くと、人口の分布は最後にどうなるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F77_migration_markov) | 人口移動のマルコフ連鎖・定常分布・収束の速さ |
 | [F78 産業がばらけている町は、不景気に強いのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F78_industry_portfolio) | 多様性指数・バーティク・産業ポートフォリオのぶれ |
+| [F79 会社の終わり方は「閉鎖」か「合併」か？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F79_closure_vs_merger) | 競合リスク（累積発生関数・Fine–Gray） |
 
 ### ポートフォリオ
 
