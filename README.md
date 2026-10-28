@@ -102,6 +102,7 @@
 | [F88 携帯料金の値下げは、物価をどれだけ下げたか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F88_mobile_fee_rdit) | 時間の回帰不連続（RDiT）・寄与度・プラセボ |
 | [F89 最低賃金の効果、これまでの推定をまとめると？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F89_minwage_meta) | メタ分析（固定効果・ランダム効果・フォレストプロット）・推定値の選び方の感度・検出力 |
 | [F90 月次の統計で、四半期のGDPをどこまで当てられるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F90_midas_nowcast) | MIDAS 回帰・ブリッジ方程式・DFM との比較（疑似リアルタイムのナウキャスト） |
+| [F91 機械学習の「何が効いているか」は、手法で答えが変わるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F91_interpretation_methods) | SHAP・並べ替え重要度・PDP・ALE の比較・相関する変数の落とし穴・人工データでの検証 |
 | [F92 電力需要の「上振れ」はどこまで見込めばよいか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F92_power_quantile_forecast) | 分位点予測（分割コンフォーマル・分位点回帰・LightGBM の分位点損失）・カバー率の評価 |
 
 ### ポートフォリオ
