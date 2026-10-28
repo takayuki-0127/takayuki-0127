@@ -96,6 +96,7 @@
 | [F82 「年収の壁」の手前に、人はどれくらい集まっているのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F82_income_wall_bunching) | 集積（bunching）分析・反実仮想の分布 |
 | [F83 日本の生産性の伸びは「産業の中」か「産業の入れ替わり」か？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F83_productivity_shift_share) | シフトシェア分解（産業の中・入れ替わり・交差項） |
 | [F85 日本経済の「要」の産業はどれか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F85_io_network) | 産業連関ネットワーク（連関・中心性・ショックの伝わり方） |
+| [F86 平均寿命はこの先どこまで延びるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F86_lee_carter_e0) | Lee–Carter 死亡率モデル・確率的な予測区間・バックテスト |
 
 ### ポートフォリオ
 
