@@ -125,6 +125,7 @@
 | [F111 人口が減る町で、店はいつ消えるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F111_shop_abm) | エージェントベースのモデル（住民と店のシミュレーション、実データとの照合、2050年への投影と前提の確認） |
 | [F112 救急隊が全部出払う確率は、隊を1つ増やすとどれだけ下がるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F112_ambulance_queueing) | 待ち行列（M/M/c・Erlang C の時間変動つき近似と M/G/c シミュレーション、公表されていない仮定を変えた幅） |
 | [F113 物価指数の作り方で、インフレ率はどれだけ変わるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F113_price_index_formulas) | 指数の式の比較（ラスパイレス・パーシェ・フィッシャーなど8つの式、固定基準と連鎖、代替バイアスのブートストラップ） |
+| [F114 東京の1万円と地方の1万円は、同じ価値か？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F114_regional_purchasing_power) | 地域の購買力（所得を消費者物価地域差指数で割る、世帯の型の重み、住居の重みの掃引） |
 
 ### ポートフォリオ
 
