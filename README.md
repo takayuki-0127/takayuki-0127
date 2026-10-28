@@ -93,6 +93,7 @@
 | [F79 会社の終わり方は「閉鎖」か「合併」か？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F79_closure_vs_merger) | 競合リスク（累積発生関数・Fine–Gray） |
 | [F80 47都道府県×100指標の「有意な差」はいくつ偶然か？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F80_multiple_comparisons) | 多重比較（Bonferroni・Holm・FDR） |
 | [F81 通勤で町の外へ出る人が多いほど、子どもは少ないのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F81_commute_gps) | 一般化傾向スコア（連続処置・用量反応曲線） |
+| [F82 「年収の壁」の手前に、人はどれくらい集まっているのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F82_income_wall_bunching) | 集積（bunching）分析・反実仮想の分布 |
 | [F83 日本の生産性の伸びは「産業の中」か「産業の入れ替わり」か？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F83_productivity_shift_share) | シフトシェア分解（産業の中・入れ替わり・交差項） |
 
 ### ポートフォリオ
