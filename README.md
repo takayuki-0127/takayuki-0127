@@ -110,6 +110,7 @@
 | [F97 「前年比+1%」は、本当に増えたと言えるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F97_sampling_error_yoy) | 公表された標準誤差率による前年比・前月差の判定・見つけられる最小の変化・標本の重なりの扱い |
 | [F98 大きな災害のあと、宿泊客はどれくらいで戻るのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F98_disaster_lodging_recovery) | 複数の事例をそろえたイベントスタディ・プラセボの帯・回復の基準の比較 |
 | [F99 作るものを変えると、カロリーの自給率はどこまで上がるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F99_food_self_sufficiency_lp) | 線形計画法・前提を変えたシナリオの比較・双対価格 |
+| [F100 同じ問いを5つの手法で分析すると、答えはそろうのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F100_five_methods_one_question) | 回帰・固定効果・マッチング・DML・空間回帰の比較・仕様の曲線 |
 
 ### ポートフォリオ
 
