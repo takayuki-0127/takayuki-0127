@@ -122,6 +122,7 @@
 | [F108 予測モデルは、地域によって外れ方が偏っていないか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F108_prediction_fairness) | 予測の公平性（グループ別の誤差・偏り・区間のカバー率、Mondrian コンフォーマル、偏りの補正の比較） |
 | [F109 どのデータを集めれば、予測は早く良くなるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F109_active_learning_land_price) | 能動学習（不確実性サンプリング・k-means の多様性・組み合わせとランダムの比較、シミュレーション） |
 | [F110 予測モデルの設定は、どう選ぶのが効率的か？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F110_hyperparam_bayesopt) | ハイパーパラメータ探索の比較（グリッド・ランダム・TPE・ガウス過程のベイズ最適化、検証とテストのずれ、作り直しによる確認） |
+| [F111 人口が減る町で、店はいつ消えるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F111_shop_abm) | エージェントベースのモデル（住民と店のシミュレーション、実データとの照合、2050年への投影と前提の確認） |
 | [F112 救急隊が全部出払う確率は、隊を1つ増やすとどれだけ下がるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F112_ambulance_queueing) | 待ち行列（M/M/c・Erlang C の時間変動つき近似と M/G/c シミュレーション、公表されていない仮定を変えた幅） |
 | [F113 物価指数の作り方で、インフレ率はどれだけ変わるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F113_price_index_formulas) | 指数の式の比較（ラスパイレス・パーシェ・フィッシャーなど8つの式、固定基準と連鎖、代替バイアスのブートストラップ） |
 
