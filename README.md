@@ -120,6 +120,7 @@
 | [F106 同じ県の会社は、同じように閉鎖しやすいのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F106_shared_frailty) | 共有フレイルつきの生存分析（ガンマ・対数正規フレイル、経験ベイズ、シミュレーション） |
 | [F108 予測モデルは、地域によって外れ方が偏っていないか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F108_prediction_fairness) | 予測の公平性（グループ別の誤差・偏り・区間のカバー率、Mondrian コンフォーマル、偏りの補正の比較） |
 | [F109 どのデータを集めれば、予測は早く良くなるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F109_active_learning_land_price) | 能動学習（不確実性サンプリング・k-means の多様性・組み合わせとランダムの比較、シミュレーション） |
+| [F110 予測モデルの設定は、どう選ぶのが効率的か？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F110_hyperparam_bayesopt) | ハイパーパラメータ探索の比較（グリッド・ランダム・TPE・ガウス過程のベイズ最適化、検証とテストのずれ、作り直しによる確認） |
 
 ### ポートフォリオ
 
