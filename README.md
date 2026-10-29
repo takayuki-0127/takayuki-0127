@@ -131,6 +131,7 @@
 | [F117 調査の回答率が下がると、結果はどれだけずれるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F117_nonresponse_weighting) | 非回答の補正（事後層化・レーキング、国勢調査との比較、答えの分かる世帯でのシミュレーション） |
 | [F118 「保育所と出生率」に、これまでの記事はどう答えたか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F118_childcare_fertility_synthesis) | 推定のまとめ直し（6本の記事の23の推定を共通の単位に換算、都道府県パネルの再推定、比べ方ごとの整理） |
 | [F119 予測した記事は、その後どれだけ当たったか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F119_forecast_scorecard) | 予測の答え合わせ（F22・F92 の電力を記事のあとの10月で、F55 の出生数を2026年1〜5月の概数で、F86 の平均寿命を2025年の簡易生命表で確かめ、未公表の予測を一覧に） |
+| [F120 2025年国勢調査で、記事の結論は変わったか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F120_census2025_update) | 公表済み集計による記事の更新（旧市町村別の2025年人口で F94 の按分を答え合わせ、F14 の比較を2025年まで延長、F87 の未婚割合を原数値と不詳補完値で比較） |
 
 ### ポートフォリオ
 
