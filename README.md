@@ -130,6 +130,7 @@
 | [F116 47都道府県の指標を1つの「暮らしやすさ」にまとめると、重みでどれだけ順位が変わるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F116_composite_index_weights) | 合成指標の感度分析（正規化・重み・集計の比較、主成分の重み、データ包絡、ディリクレ分布の重みで順位の幅） |
 | [F117 調査の回答率が下がると、結果はどれだけずれるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F117_nonresponse_weighting) | 非回答の補正（事後層化・レーキング、国勢調査との比較、答えの分かる世帯でのシミュレーション） |
 | [F118 「保育所と出生率」に、これまでの記事はどう答えたか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F118_childcare_fertility_synthesis) | 推定のまとめ直し（6本の記事の23の推定を共通の単位に換算、都道府県パネルの再推定、比べ方ごとの整理） |
+| [F119 予測した記事は、その後どれだけ当たったか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F119_forecast_scorecard) | 予測の答え合わせ（F22・F92 の電力を記事のあとの10月で、F55 の出生数を2026年1〜5月の概数で、F86 の平均寿命を2025年の簡易生命表で確かめ、未公表の予測を一覧に） |
 
 ### ポートフォリオ
 
