@@ -128,6 +128,7 @@
 | [F114 東京の1万円と地方の1万円は、同じ価値か？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F114_regional_purchasing_power) | 地域の購買力（所得を消費者物価地域差指数で割る、世帯の型の重み、住居の重みの掃引） |
 | [F115 統計の公表値から、元のばらつきをどこまで復元できるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F115_grouped_income_distribution) | 階級別の度数からの分布の推定（区間の最尤推定・単調スプライン＋パレート、公表値との答え合わせ、階級の粗さとシミュレーション） |
 | [F116 47都道府県の指標を1つの「暮らしやすさ」にまとめると、重みでどれだけ順位が変わるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F116_composite_index_weights) | 合成指標の感度分析（正規化・重み・集計の比較、主成分の重み、データ包絡、ディリクレ分布の重みで順位の幅） |
+| [F117 調査の回答率が下がると、結果はどれだけずれるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F117_nonresponse_weighting) | 非回答の補正（事後層化・レーキング、国勢調査との比較、答えの分かる世帯でのシミュレーション） |
 | [F118 「保育所と出生率」に、これまでの記事はどう答えたか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F118_childcare_fertility_synthesis) | 推定のまとめ直し（6本の記事の23の推定を共通の単位に換算、都道府県パネルの再推定、比べ方ごとの整理） |
 
 ### ポートフォリオ
