@@ -134,6 +134,7 @@
 | [F120 2025年国勢調査で、記事の結論は変わったか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F120_census2025_update) | 公表済み集計による記事の更新（旧市町村別の2025年人口で F94 の按分を答え合わせ、F14 の比較を2025年まで延長、F87 の未婚割合を原数値と不詳補完値で比較） |
 | [F121 「最低賃金と雇用」に、4本の記事はどう答えたか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F121_minwage_methods_review) | 手法のまとめ直し（差の差・県境のペア比較・因果フォレスト・メタ分析の17の推定を共通の単位に換算し、使えた変動と検出力を比較） |
 | [F122 手法ごとに、どこでつまずいたか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F122_pitfalls_from_logs) | 作業ログの集計（118本の「設計から変えたこと」と「言えないこと」をキーワード辞書で分類、手法の系統別の比較、数え方を変えた順位の相関） |
+| [F125 100本を超えた看板記事で、「見えなかった」はどれくらいあったか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F125_null_results_review) | 結論の振り返り（118本の結論を手作業で判定、記事の種類・手法の系統・データの単位別の割合、Fisher の正確検定、キーワード判定との一致） |
 
 ### ポートフォリオ
 
