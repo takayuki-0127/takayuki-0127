@@ -137,6 +137,7 @@
 | [F123 「場所で分けて確かめる」と、記事の結論は変わったか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F123_spatial_block_cv_review) | 空間ブロック交差検証の見直し（地価・出生率・気温で4つのモデルをランダム・ブロック・都道府県ごと・緩衝帯で比較、これまでの記事の数字を横並び） |
 | [F124 同じデータを何本の記事で使い回したか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F124_data_lineage_network) | データの系譜（118本の README を名寄せした記事×データの二部グラフ、記事→記事の使い回しの有向グラフ、F122 の分類との比較） |
 | [F125 100本を超えた看板記事で、「見えなかった」はどれくらいあったか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F125_null_results_review) | 結論の振り返り（118本の結論を手作業で判定、記事の種類・手法の系統・データの単位別の割合、Fisher の正確検定、キーワード判定との一致） |
+| [F127 空き家は、人口が減った分だけ増えたのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F127_vacant_houses_decomposition) | 要因分解（住宅ストック・人口・世帯の小型化、LMDI）と都道府県パネル回帰（住宅・土地統計調査 2003〜2023年） |
 
 ### ポートフォリオ
 
