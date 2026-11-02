@@ -135,6 +135,7 @@
 | [F121 「最低賃金と雇用」に、4本の記事はどう答えたか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F121_minwage_methods_review) | 手法のまとめ直し（差の差・県境のペア比較・因果フォレスト・メタ分析の17の推定を共通の単位に換算し、使えた変動と検出力を比較） |
 | [F122 手法ごとに、どこでつまずいたか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F122_pitfalls_from_logs) | 作業ログの集計（118本の「設計から変えたこと」と「言えないこと」をキーワード辞書で分類、手法の系統別の比較、数え方を変えた順位の相関） |
 | [F123 「場所で分けて確かめる」と、記事の結論は変わったか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F123_spatial_block_cv_review) | 空間ブロック交差検証の見直し（地価・出生率・気温で4つのモデルをランダム・ブロック・都道府県ごと・緩衝帯で比較、これまでの記事の数字を横並び） |
+| [F124 同じデータを何本の記事で使い回したか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F124_data_lineage_network) | データの系譜（118本の README を名寄せした記事×データの二部グラフ、記事→記事の使い回しの有向グラフ、F122 の分類との比較） |
 | [F125 100本を超えた看板記事で、「見えなかった」はどれくらいあったか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F125_null_results_review) | 結論の振り返り（118本の結論を手作業で判定、記事の種類・手法の系統・データの単位別の割合、Fisher の正確検定、キーワード判定との一致） |
 
 ### ポートフォリオ
