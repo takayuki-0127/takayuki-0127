@@ -151,6 +151,7 @@
 | [F137 郵便物は、いつ半分になるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F137_postal_decay) | 減衰モデルと予測区間（指数・対数2次・ロジスティックを比べ、半分になる年度をブートストラップの90%区間とローリング予測で検証。日本郵便 引受物数、FY2003〜2025） |
 | [F138 テレワークは、どの産業・地域に残ったのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F138_telework_decomposition) | 集計データの要因分解（対称型シフト・シェアで都道府県の差を産業構成と産業内に分け、分散の説明割合と東京圏への集中を比較。令和4年就業構造基本調査） |
 | [F139 副業をしている人は、どんな働き方の人か？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F139_side_job_loglinear) | 集計表のログリニアモデル（男女×年齢×雇用形態×所得×副業の有無、逸脱度の比較と調整オッズ比、2017→2022のシフトシェア分解。就業構造基本調査） |
+| [F140 外国人の住民は、どの地域に、どの速さで増えたのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F140_foreign_residents_concentration) | 空間的な集中度と増え方の分解（日本人との非類似度指数・ジニ・Theilの都道府県間／内の分解・立地係数、人口動態による増減の分解、国籍・地域の構成だけを変えた反実仮想。住民基本台帳・在留外国人統計） |
 
 ### ポートフォリオ
 
