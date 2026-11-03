@@ -155,6 +155,7 @@
 | [F141 特許の出願は、どの分野で地方に広がったのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F141_ip_regional_concentration) | 集中度の指標と時系列（東京・三大都市圏以外の割合、HHI、ジニ係数の傾き、特化係数、権利の構成によるシフトシェア分解。特許行政年次報告書の都道府県別の表） |
 | [F142 森林は、「切れる木」がどれだけ増えたのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F142_forest_age_harvest) | 齢級のコホート推移と伐採量の比較（人工林の齢級別の面積・蓄積の推移、5年後の残り方、蓄積の増えのうち伐った割合、見通し。森林資源の現況・木材統計） |
 | [F143 漁獲量の減り方は、魚の種類でどう違うのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F143_fish_catch_decline) | 時系列クラスタリングと変化点（42魚種・65年の漁獲量の形を k-means で4つの型に分け、log 漁獲量の区分線形で変化点を BIC で推定、型別の減少の分解、漁業種類でも確認） |
+| [F146 統計の秘匿をノイズで置き換えると、分析の答えはどれだけ変わるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F146_dp_noise_vs_suppression) | 差分プライバシー（ラプラス機構でε=0.01〜10のノイズを市区町村の集計表に入れ、率の誤差・順位・上位50・ファンネルの外れ・回帰の係数の変わり方を比較。小さい値を伏せる一次秘匿、県単位への直接ノイズとも比較。F19/F20/F27/F61 の表） |
 
 ### ポートフォリオ
 
