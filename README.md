@@ -140,6 +140,7 @@
 | [F126 暑い日の何日後まで、熱中症の搬送は増えるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F126_heatstroke_dlnm) | 分布ラグ非線形モデル（気温×遅れ0〜10日、熱中症搬送の日別・47都道府県 2015〜2025年） |
 | [F127 空き家は、人口が減った分だけ増えたのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F127_vacant_houses_decomposition) | 要因分解（住宅ストック・人口・世帯の小型化、LMDI）と都道府県パネル回帰（住宅・土地統計調査 2003〜2023年） |
 | [F128 家賃は、都心からの距離でどれだけ下がるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F128_rent_distance) | GAM と折れ線回帰（民営借家の家賃と都心・駅からの距離、住宅・土地統計調査 2018・2023年） |
+| [F129 薬の処方量の地域差は、年齢構成でどこまで説明できるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F129_prescription_age_adjust) | 間接法の年齢調整とファンネルプロット（NDBオープンデータ 処方薬・人口推計、2023・2024年度） |
 | [F130 介護の認定率の地域差は、高齢化だけで説明できるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F130_care_certification_shrinkage) | 年齢調整（間接法）とポアソン階層ベイズの縮小（介護保険事業状況報告 保険者別、1,573保険者、2020〜2024年度） |
 | [F131 大学に進む人が増えると、地元に残る若者は減るのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F131_univ_youth_migration) | 固定効果パネルと対数による要因分解（学校基本調査 出身高校の所在地県別 大学入学者・住民基本台帳人口移動報告、47都道府県、2005〜2025年度） |
 
