@@ -152,6 +152,7 @@
 | [F138 テレワークは、どの産業・地域に残ったのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F138_telework_decomposition) | 集計データの要因分解（対称型シフト・シェアで都道府県の差を産業構成と産業内に分け、分散の説明割合と東京圏への集中を比較。令和4年就業構造基本調査） |
 | [F139 副業をしている人は、どんな働き方の人か？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F139_side_job_loglinear) | 集計表のログリニアモデル（男女×年齢×雇用形態×所得×副業の有無、逸脱度の比較と調整オッズ比、2017→2022のシフトシェア分解。就業構造基本調査） |
 | [F140 外国人の住民は、どの地域に、どの速さで増えたのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F140_foreign_residents_concentration) | 空間的な集中度と増え方の分解（日本人との非類似度指数・ジニ・Theilの都道府県間／内の分解・立地係数、人口動態による増減の分解、国籍・地域の構成だけを変えた反実仮想。住民基本台帳・在留外国人統計） |
+| [F142 森林は、「切れる木」がどれだけ増えたのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F142_forest_age_harvest) | 齢級のコホート推移と伐採量の比較（人工林の齢級別の面積・蓄積の推移、5年後の残り方、蓄積の増えのうち伐った割合、見通し。森林資源の現況・木材統計） |
 
 ### ポートフォリオ
 
