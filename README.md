@@ -146,6 +146,7 @@
 | [F132 農家は「やめる」のか「大きくなる」のか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F132_farm_size_transitions) | 規模の遷移行列（マルコフ連鎖）と2025年センサスでの予測検証、シフトシェア（農林業センサス 構造動態の相関表、2005〜2020年） |
 | [F133 輸出先は、距離と経済規模でどこまで決まるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F133_export_gravity) | 重力モデルの PPML 推定（年・国の固定効果、品目別・年ごと。財務省 貿易統計〈UN Comtrade 経由〉・IMF WEO・世界銀行、194か国×2000〜2024年） |
 | [F135 雨の日は、小売の売上をどれだけ動かすのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F135_rain_retail) | 天候ショックの回帰（前年同月差、Newey–West）と業態・品目・曜日の比較、月の固定効果つき地域パネル（商業動態統計×気象庁 日別値、2014〜2026年） |
+| [F136 鉄道の利用は、コロナ前にどこまで戻ったのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F136_rail_covid_recovery) | 季節つき中断時系列（コロナ前の傾向と季節から反実仮想、回復率と95%予測区間、定期・定期外・業態・地方の比較。鉄道輸送統計調査 月次、2014〜2026年） |
 
 ### ポートフォリオ
 
