@@ -145,6 +145,7 @@
 | [F131 大学に進む人が増えると、地元に残る若者は減るのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F131_univ_youth_migration) | 固定効果パネルと対数による要因分解（学校基本調査 出身高校の所在地県別 大学入学者・住民基本台帳人口移動報告、47都道府県、2005〜2025年度） |
 | [F132 農家は「やめる」のか「大きくなる」のか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F132_farm_size_transitions) | 規模の遷移行列（マルコフ連鎖）と2025年センサスでの予測検証、シフトシェア（農林業センサス 構造動態の相関表、2005〜2020年） |
 | [F133 輸出先は、距離と経済規模でどこまで決まるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F133_export_gravity) | 重力モデルの PPML 推定（年・国の固定効果、品目別・年ごと。財務省 貿易統計〈UN Comtrade 経由〉・IMF WEO・世界銀行、194か国×2000〜2024年） |
+| [F134 再生可能エネルギーの導入は、どこで速く進んだのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F134_renewable_diffusion) | 普及曲線（Bass・ロジスティック・ゴンペルツ）の当てはめと予測検証、地域差の順位相関（資源エネルギー庁 FIT・FIP 都道府県別導入量、2012〜2026年） |
 | [F135 雨の日は、小売の売上をどれだけ動かすのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F135_rain_retail) | 天候ショックの回帰（前年同月差、Newey–West）と業態・品目・曜日の比較、月の固定効果つき地域パネル（商業動態統計×気象庁 日別値、2014〜2026年） |
 | [F136 鉄道の利用は、コロナ前にどこまで戻ったのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F136_rail_covid_recovery) | 季節つき中断時系列（コロナ前の傾向と季節から反実仮想、回復率と95%予測区間、定期・定期外・業態・地方の比較。鉄道輸送統計調査 月次、2014〜2026年） |
 
