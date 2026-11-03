@@ -157,6 +157,7 @@
 | [F143 漁獲量の減り方は、魚の種類でどう違うのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F143_fish_catch_decline) | 時系列クラスタリングと変化点（42魚種・65年の漁獲量の形を k-means で4つの型に分け、log 漁獲量の区分線形で変化点を BIC で推定、型別の減少の分解、漁業種類でも確認） |
 | [F144 水道料金の差は、人口密度と水源でどこまで説明できるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F144_water_tariff_density) | 費用関数の回帰と R² の分解（料金を給水人口・管路1kmあたり給水人口・水源で回帰し Shapley 値で分解、県の固定効果、勾配ブースティングの交差検証、給水原価の規模の経済と密度の経済。地方公営企業年鑑の事業別の個表） |
 | [F146 統計の秘匿をノイズで置き換えると、分析の答えはどれだけ変わるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F146_dp_noise_vs_suppression) | 差分プライバシー（ラプラス機構でε=0.01〜10のノイズを市区町村の集計表に入れ、率の誤差・順位・上位50・ファンネルの外れ・回帰の係数の変わり方を比較。小さい値を伏せる一次秘匿、県単位への直接ノイズとも比較。F19/F20/F27/F61 の表） |
+| [F147 集計表から「それらしい個票」を作ると、元の分析を再現できるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F147_synthetic_from_tables) | 合成データ（就業構造基本調査の6変数の表を本当の表とみなし、1〜3変数の周辺表だけから IPF・ベイズネットワーク〈Chow–Liu・BIC〉など7通りで合成。全変動距離と、F139 の分析〈オッズ比・逸脱度の割合・交互作用〉の再現を、本当の表からの引き直しと比較） |
 
 ### ポートフォリオ
 
