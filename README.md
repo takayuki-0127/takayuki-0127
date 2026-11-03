@@ -143,6 +143,7 @@
 | [F129 薬の処方量の地域差は、年齢構成でどこまで説明できるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F129_prescription_age_adjust) | 間接法の年齢調整とファンネルプロット（NDBオープンデータ 処方薬・人口推計、2023・2024年度） |
 | [F130 介護の認定率の地域差は、高齢化だけで説明できるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F130_care_certification_shrinkage) | 年齢調整（間接法）とポアソン階層ベイズの縮小（介護保険事業状況報告 保険者別、1,573保険者、2020〜2024年度） |
 | [F131 大学に進む人が増えると、地元に残る若者は減るのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F131_univ_youth_migration) | 固定効果パネルと対数による要因分解（学校基本調査 出身高校の所在地県別 大学入学者・住民基本台帳人口移動報告、47都道府県、2005〜2025年度） |
+| [F132 農家は「やめる」のか「大きくなる」のか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F132_farm_size_transitions) | 規模の遷移行列（マルコフ連鎖）と2025年センサスでの予測検証、シフトシェア（農林業センサス 構造動態の相関表、2005〜2020年） |
 
 ### ポートフォリオ
 
