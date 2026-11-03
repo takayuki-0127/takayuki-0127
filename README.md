@@ -148,6 +148,7 @@
 | [F134 再生可能エネルギーの導入は、どこで速く進んだのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F134_renewable_diffusion) | 普及曲線（Bass・ロジスティック・ゴンペルツ）の当てはめと予測検証、地域差の順位相関（資源エネルギー庁 FIT・FIP 都道府県別導入量、2012〜2026年） |
 | [F135 雨の日は、小売の売上をどれだけ動かすのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F135_rain_retail) | 天候ショックの回帰（前年同月差、Newey–West）と業態・品目・曜日の比較、月の固定効果つき地域パネル（商業動態統計×気象庁 日別値、2014〜2026年） |
 | [F136 鉄道の利用は、コロナ前にどこまで戻ったのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F136_rail_covid_recovery) | 季節つき中断時系列（コロナ前の傾向と季節から反実仮想、回復率と95%予測区間、定期・定期外・業態・地方の比較。鉄道輸送統計調査 月次、2014〜2026年） |
+| [F138 テレワークは、どの産業・地域に残ったのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F138_telework_decomposition) | 集計データの要因分解（対称型シフト・シェアで都道府県の差を産業構成と産業内に分け、分散の説明割合と東京圏への集中を比較。令和4年就業構造基本調査） |
 | [F139 副業をしている人は、どんな働き方の人か？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F139_side_job_loglinear) | 集計表のログリニアモデル（男女×年齢×雇用形態×所得×副業の有無、逸脱度の比較と調整オッズ比、2017→2022のシフトシェア分解。就業構造基本調査） |
 
 ### ポートフォリオ
