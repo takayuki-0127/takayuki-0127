@@ -194,6 +194,7 @@
 | [F180 2つの統計の数字は、本当に同じものを測っているか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F180_measurement_agreement) | 測定の一致度（Bland–Altman 法・一致相関 CCC）と系統的なずれ（国勢調査と住民基本台帳・労働力調査の8組。人口は相関1.00 でも住基が0.9〜1.2%多く、世帯数は全47県で7%多い。失業率は相関0.75 でも CCC0.13 で労働力調査が全47県で1.4ポイント低く、就業率は「不詳」の扱いでずれが6倍に） |
 | [F181 家が建つ数は、金利と人口のどちらで決まるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F181_housing_starts_rates_population) | 時系列の回帰・VAR の分散分解・都道府県パネル（新設住宅着工60年分。年ごとの増減の取り分は金利15%・人口2%、VAR の5年先は金利2割強・人口6%。ピークから58%減のうち25〜44歳人口の減少で説明できるのは3割弱で、1996〜2009年は人口が増えても着工は半減） |
 | [F182 中古住宅は、新築の何年分の価格差で売られているか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F182_condo_depreciation_curve) | 築年数の減価曲線（1年ごとのダミーのヘドニック回帰、市区町村×四半期の固定効果、全国の中古マンション54.7万件）と地域・期間・構造の比較（築0→3年で15%下がり、その後の年2.7%の6.2年分。築1年の半分は築23.5年で、東京23区30年〜地方19年） |
+| [F183 車を持つ世帯は、どこで減りはじめたのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F183_car_ownership_change_points) | 普及率の変化点（最も高かった年・折れ線回帰）と台数・世帯数への分解、人口密度・鉄道・高齢化との順位相関（世帯当たり台数は全国で2006年が最高だが台数は2026年も過去最多。減りはじめは大都市圏の2007年以前と地方の2017〜19年、人口当たりでは45県で増加） |
 
 ### ポートフォリオ
 
