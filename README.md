@@ -183,6 +183,7 @@
 | [F169 円安と株高は、大きく動く日にだけ一緒に動くのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F169_yen_stock_copula) | コピュラと裾の依存（1998〜2026年の7,062日で、上下2.5%どうしがそろう割合は円安×株高0.16・円高×株安0.25とガウスの0.10を上回るが、はっきり出たのは2007〜2012年。「大きく動いた日だけの相関」は選び方だけで高く出る） |
 | [F170 産業の構成比を比べるとき、割合のまま回帰してよいか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F170_compositional_industry_shares) | 組成データ・ilr（製造業の割合の係数は基準の産業しだいで−1.4%〜+7.9%と符号まで変わるが、ilr では+1.5%の1つに決まる。割合にするだけで負の相関が生まれる） |
 | [F171 人口ピラミッドの「形」は、いくつの型に分かれるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F171_pyramid_shape_fda) | 関数主成分とクラスタリング（1,740市区町村の各歳人口の曲線で、形の違いの69%は平均年齢とほぼ同じ1本の軸〈相関0.99〉。はっきり分かれるのは2つまで〈シルエット0.39〉、安定して分けられるのは3つまでで、境目は手法や対象を変えると大きく動く） |
+| [F173 2つの年の所得分布は、どれだけ「動いた」のか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F173_income_distribution_wasserstein) | 最適輸送（Wasserstein 距離）と分位点の差（国民生活基礎調査の39年分の所得分布で、1994→2024 の距離は2024年の価格で178.8万円とほぼ全部が下向き。どの順位も下がったので距離は平均の差と同じで、平均を超える情報を足したのは平均がほとんど動かない年の組だけ） |
 
 ### ポートフォリオ
 
