@@ -177,6 +177,7 @@
 | [F163 125本の看板記事で、いちばん効いた頑健性チェックは何だったか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F163_robustness_checks_review) | 頑健性チェックの効き目の集計（F01〜F125 の README を手作業で判定すると、結論が変わったのは113本中23本〈20%〉。いちばん多く使った「対象を絞る・除く」が結論を動かしたのは9%で、変数・モデル・期間を変えるチェック〈18〜20%〉の半分。上位の順は数え方で入れ替わった） |
 | [F164 図をどう作ると、読まれ方が変わったか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F164_figures_and_reads) | 自分の note の公開数字の振り返り（公開済み34本のスキ・コメントと図の枚数・字数・タイトルの字数を、正確な区間・日数をオフセットにしたポアソン回帰で記述すると、図5枚以上の差は日数の扱いで4.6倍〜2.3倍と揺れ、図の枚数はタイトルの長さと重なっていて分けられなかった） |
 | [F165 データ分析の「再現できる形」は、どこまで作れたか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F165_reproducibility_audit) | 記事フォルダの再現性の監査（379本のコードと requirements.txt の棚卸しと、無作為に選んだ40本を新しい仮想環境で最初から動かし直して results/ と照合すると、数字が一致したのは33本。通常記事は20本すべて再現したが、看板記事でそのまま再現したのは20本中9本で、ずれた7本のうち3本は書いたときの環境なら一致した） |
+| [F166 公的統計の数字は、ベンフォードの法則に従っているか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F166_benford_public_stats) | ベンフォードの法則（市区町村の10系列は第1桁で「おおむね合う」以上、第2桁はすべて「よく合う」。約1,700件では本当にベンフォードに従う数でも先頭2桁は「ぎりぎり」と判定され、単位を換えるだけで判定が入れ替わる系列もあった） |
 | [F168 猛暑日の数は、どこまで増えたと言えるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F168_extreme_heat_trend) | 非定常の極値分布（気象庁30地点の125年で、年最高気温は30地点すべてで上昇〈中央値+1.7℃／100年〉、38℃以上の年は6.4倍。都市の影響と見分けられるのは約0.5℃） |
 
 ### ポートフォリオ
