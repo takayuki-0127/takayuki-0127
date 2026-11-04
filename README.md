@@ -192,6 +192,7 @@
 | [F178 回帰の外れ値は、どの点がどれだけ結論を動かしているか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F178_regression_influence) | 影響度の診断（Cook の距離・DFBETA・1県ずつ／2県ずつ除く）と頑健回帰・HC3・ブートストラップの比較（物価と所得の傾きは東京1点で0.067→0.042、医師と女性の寿命は東京を除くと p=0.027→0.48。83指標3,403組では p<0.05 の13%が1県を除くだけで入れ替わり、正規分布の乱数より裾の重い分布に近い） |
 | [F179 欠測を埋める方法で、答えはどれだけ変わるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F179_imputation_by_estimand) | 多重代入（連鎖方程式・PMM）と単一代入・完全ケースの比較（3項目を30%欠かした1,740市区町村で、1つの値で埋めると割合は8.7%→6%に縮み、人口が小さい町ほど欠けると多重代入でも係数の符号が逆に。人口で分けて埋めると区間の当たり31%→87%） |
 | [F180 2つの統計の数字は、本当に同じものを測っているか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F180_measurement_agreement) | 測定の一致度（Bland–Altman 法・一致相関 CCC）と系統的なずれ（国勢調査と住民基本台帳・労働力調査の8組。人口は相関1.00 でも住基が0.9〜1.2%多く、世帯数は全47県で7%多い。失業率は相関0.75 でも CCC0.13 で労働力調査が全47県で1.4ポイント低く、就業率は「不詳」の扱いでずれが6倍に） |
+| [F182 中古住宅は、新築の何年分の価格差で売られているか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F182_condo_depreciation_curve) | 築年数の減価曲線（1年ごとのダミーのヘドニック回帰、市区町村×四半期の固定効果、全国の中古マンション54.7万件）と地域・期間・構造の比較（築0→3年で15%下がり、その後の年2.7%の6.2年分。築1年の半分は築23.5年で、東京23区30年〜地方19年） |
 
 ### ポートフォリオ
 
