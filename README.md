@@ -186,6 +186,7 @@
 | [F172 生まれる日・亡くなる日は、曜日と季節でどう偏るか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F172_birth_death_calendar) | 円周統計と曜日効果（2018〜2025年の出生629万人で、日曜は平日より41%少なく〈病院55%・助産所98%〉、差の8割は9時台〜16時台。季節の集中度 R は曜日の6分の1ほどで、出生の季節は1950年代の1〜2月集中からほぼ消え、死亡は今も冬に集中） |
 | [F173 2つの年の所得分布は、どれだけ「動いた」のか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F173_income_distribution_wasserstein) | 最適輸送（Wasserstein 距離）と分位点の差（国民生活基礎調査の39年分の所得分布で、1994→2024 の距離は2024年の価格で178.8万円とほぼ全部が下向き。どの順位も下がったので距離は平均の差と同じで、平均を超える情報を足したのは平均がほとんど動かない年の組だけ） |
 | [F174 景気の「局面」は、データから自動で見つけられるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F174_business_cycle_hmm_multiseries) | 多変量の隠れマルコフモデル（一致系列7本を並べたまま、1975年以降の後退9回のうち8回を見つけ一致率73.7%。BIC は3状態を選んだが公式に最も合うのは4状態、初期値を変えた当てはまりのほぼ同じ解では61〜62%、CI1本〈84.3%〉に届かず） |
+| [F177 「差がある」は、並べ替えで確かめるとどうなるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F177_permutation_tests) | 置換検定・ランダム化推論と t 検定の比較（過去の記事の小さな比較3つで、検定を換えても p はほぼ同じ〈都市と都市以外の気温の上がり方 Welch 0.049・並べ替え 0.0498〉だが、並べ替えの単位を換えると東西100指標の p<0.05 は19→4、豪雨のあとの宿泊の差は p=0.034→0.18。人工データでは外れ値に強く、ばらつきの違いには弱い） |
 
 ### ポートフォリオ
 
