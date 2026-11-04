@@ -185,6 +185,7 @@
 | [F171 人口ピラミッドの「形」は、いくつの型に分かれるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F171_pyramid_shape_fda) | 関数主成分とクラスタリング（1,740市区町村の各歳人口の曲線で、形の違いの69%は平均年齢とほぼ同じ1本の軸〈相関0.99〉。はっきり分かれるのは2つまで〈シルエット0.39〉、安定して分けられるのは3つまでで、境目は手法や対象を変えると大きく動く） |
 | [F172 生まれる日・亡くなる日は、曜日と季節でどう偏るか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F172_birth_death_calendar) | 円周統計と曜日効果（2018〜2025年の出生629万人で、日曜は平日より41%少なく〈病院55%・助産所98%〉、差の8割は9時台〜16時台。季節の集中度 R は曜日の6分の1ほどで、出生の季節は1950年代の1〜2月集中からほぼ消え、死亡は今も冬に集中） |
 | [F173 2つの年の所得分布は、どれだけ「動いた」のか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F173_income_distribution_wasserstein) | 最適輸送（Wasserstein 距離）と分位点の差（国民生活基礎調査の39年分の所得分布で、1994→2024 の距離は2024年の価格で178.8万円とほぼ全部が下向き。どの順位も下がったので距離は平均の差と同じで、平均を超える情報を足したのは平均がほとんど動かない年の組だけ） |
+| [F174 景気の「局面」は、データから自動で見つけられるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F174_business_cycle_hmm_multiseries) | 多変量の隠れマルコフモデル（一致系列7本を並べたまま、1975年以降の後退9回のうち8回を見つけ一致率73.7%。BIC は3状態を選んだが公式に最も合うのは4状態、初期値を変えた当てはまりのほぼ同じ解では61〜62%、CI1本〈84.3%〉に届かず） |
 
 ### ポートフォリオ
 
