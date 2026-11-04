@@ -199,6 +199,7 @@
 | [F185 宅配便の個数は、どこまで通販で説明できるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F185_parcels_online_shopping) | 時系列の回帰（水準と前年度比）・変数の組み合わせ・前半で推定して後半を当てる予測（宅配便21年度分と家計のネット通販支出。2004〜24年度で宅配便 +63%・ネット支出13倍、水準の R² 0.96 はトレンドだけでも0.94、前年度比の R² は0.04 で効いたのはコロナの2020年度） |
 | [F186 電気料金の値上がりは、家計のどこに効いたのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F186_electricity_bill_household_burden) | 単価と使用量への要因分解（LMDI）と世帯属性別の負担、国の値引きの推計（家計調査の電気代と kWh。2021→2025年の増加 +3.5万円の約9割が単価、消費支出に占める割合の上がり幅は第Ⅰ五分位 +0.72pt・第Ⅴ五分位 +0.38pt） |
 | [F187 子どもの身長の伸びは、いつ止まったのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F187_height_plateau_changepoint) | 長期系列の変化点（折れ線・平均の変化点・最高値に届いた年）と生まれ年での比較（学校保健統計の5〜17歳の平均身長26系列。伸びが鈍ったのは1970年代、止まったのは17歳男子1991年ごろ・女子1986年ごろ、11〜13歳は1995〜98年まで伸びた） |
+| [F188 労働災害は、どの産業で減り、どこで減らなかったのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F188_occupational_injury_by_industry) | 擬似ポアソン回帰による産業別の変化率とシフト・シェア分解（労働災害動向調査の度数率1965〜2024年、年千人率と労働力調査2012〜2025年。度数率は1990年ごろまでに8割下がり、2012年以降の年千人率は建設・製造の低下と保健衛生・商業の上昇が打ち消し合って横ばい） |
 
 ### ポートフォリオ
 
