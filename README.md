@@ -176,6 +176,7 @@
 | [F162 公的データは「API で取れる」のか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F162_data_access_map) | 取得経路の集計（377記事の README と取得コードから、新しく取った428組の取り方を分類すると、ファイル67%・API 2%（日銀など9組）・記録なし25%。e-Stat 経由ほどファイルで取れ、後の記事ほど PDF・画面からが増えた） |
 | [F163 125本の看板記事で、いちばん効いた頑健性チェックは何だったか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F163_robustness_checks_review) | 頑健性チェックの効き目の集計（F01〜F125 の README を手作業で判定すると、結論が変わったのは113本中23本〈20%〉。いちばん多く使った「対象を絞る・除く」が結論を動かしたのは9%で、変数・モデル・期間を変えるチェック〈18〜20%〉の半分。上位の順は数え方で入れ替わった） |
 | [F164 図をどう作ると、読まれ方が変わったか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F164_figures_and_reads) | 自分の note の公開数字の振り返り（公開済み34本のスキ・コメントと図の枚数・字数・タイトルの字数を、正確な区間・日数をオフセットにしたポアソン回帰で記述すると、図5枚以上の差は日数の扱いで4.6倍〜2.3倍と揺れ、図の枚数はタイトルの長さと重なっていて分けられなかった） |
+| [F165 データ分析の「再現できる形」は、どこまで作れたか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F165_reproducibility_audit) | 記事フォルダの再現性の監査（379本のコードと requirements.txt の棚卸しと、無作為に選んだ40本を新しい仮想環境で最初から動かし直して results/ と照合すると、数字が一致したのは33本。通常記事は20本すべて再現したが、看板記事でそのまま再現したのは20本中9本で、ずれた7本のうち3本は書いたときの環境なら一致した） |
 
 ### ポートフォリオ
 
