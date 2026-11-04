@@ -196,6 +196,7 @@
 | [F182 中古住宅は、新築の何年分の価格差で売られているか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F182_condo_depreciation_curve) | 築年数の減価曲線（1年ごとのダミーのヘドニック回帰、市区町村×四半期の固定効果、全国の中古マンション54.7万件）と地域・期間・構造の比較（築0→3年で15%下がり、その後の年2.7%の6.2年分。築1年の半分は築23.5年で、東京23区30年〜地方19年） |
 | [F183 車を持つ世帯は、どこで減りはじめたのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F183_car_ownership_change_points) | 普及率の変化点（最も高かった年・折れ線回帰）と台数・世帯数への分解、人口密度・鉄道・高齢化との順位相関（世帯当たり台数は全国で2006年が最高だが台数は2026年も過去最多。減りはじめは大都市圏の2007年以前と地方の2017〜19年、人口当たりでは45県で増加） |
 | [F184 空の便は、新幹線の開業でどれだけ減ったのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F184_air_shinkansen_did) | 路線別の差の差と並べ替え推論（航空輸送統計の214路線。新幹線の開業区間の7路線は対照より平均−40%、鉄道が速いほど大きく減る） |
+| [F185 宅配便の個数は、どこまで通販で説明できるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F185_parcels_online_shopping) | 時系列の回帰（水準と前年度比）・変数の組み合わせ・前半で推定して後半を当てる予測（宅配便21年度分と家計のネット通販支出。2004〜24年度で宅配便 +63%・ネット支出13倍、水準の R² 0.96 はトレンドだけでも0.94、前年度比の R² は0.04 で効いたのはコロナの2020年度） |
 
 ### ポートフォリオ
 
