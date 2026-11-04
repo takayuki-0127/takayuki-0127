@@ -197,6 +197,7 @@
 | [F183 車を持つ世帯は、どこで減りはじめたのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F183_car_ownership_change_points) | 普及率の変化点（最も高かった年・折れ線回帰）と台数・世帯数への分解、人口密度・鉄道・高齢化との順位相関（世帯当たり台数は全国で2006年が最高だが台数は2026年も過去最多。減りはじめは大都市圏の2007年以前と地方の2017〜19年、人口当たりでは45県で増加） |
 | [F184 空の便は、新幹線の開業でどれだけ減ったのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F184_air_shinkansen_did) | 路線別の差の差と並べ替え推論（航空輸送統計の214路線。新幹線の開業区間の7路線は対照より平均−40%、鉄道が速いほど大きく減る） |
 | [F185 宅配便の個数は、どこまで通販で説明できるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F185_parcels_online_shopping) | 時系列の回帰（水準と前年度比）・変数の組み合わせ・前半で推定して後半を当てる予測（宅配便21年度分と家計のネット通販支出。2004〜24年度で宅配便 +63%・ネット支出13倍、水準の R² 0.96 はトレンドだけでも0.94、前年度比の R² は0.04 で効いたのはコロナの2020年度） |
+| [F187 子どもの身長の伸びは、いつ止まったのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F187_height_plateau_changepoint) | 長期系列の変化点（折れ線・平均の変化点・最高値に届いた年）と生まれ年での比較（学校保健統計の5〜17歳の平均身長26系列。伸びが鈍ったのは1970年代、止まったのは17歳男子1991年ごろ・女子1986年ごろ、11〜13歳は1995〜98年まで伸びた） |
 
 ### ポートフォリオ
 
