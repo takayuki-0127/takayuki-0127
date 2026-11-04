@@ -189,6 +189,7 @@
 | [F175 予測モデルの精度は、どの特徴量の「おかげ」なのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F175_r2_shapley_decomposition) | R² の Shapley 分解（128通りの学び直し・SAGE・線形 LMG・\|SHAP\| の比較。地価の乗降客数は SAGE 66%・学び直し21%） |
 | [F177 「差がある」は、並べ替えで確かめるとどうなるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F177_permutation_tests) | 置換検定・ランダム化推論と t 検定の比較（過去の記事の小さな比較3つで、検定を換えても p はほぼ同じ〈都市と都市以外の気温の上がり方 Welch 0.049・並べ替え 0.0498〉だが、並べ替えの単位を換えると東西100指標の p<0.05 は19→4、豪雨のあとの宿泊の差は p=0.034→0.18。人工データでは外れ値に強く、ばらつきの違いには弱い） |
 | [F178 回帰の外れ値は、どの点がどれだけ結論を動かしているか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F178_regression_influence) | 影響度の診断（Cook の距離・DFBETA・1県ずつ／2県ずつ除く）と頑健回帰・HC3・ブートストラップの比較（物価と所得の傾きは東京1点で0.067→0.042、医師と女性の寿命は東京を除くと p=0.027→0.48。83指標3,403組では p<0.05 の13%が1県を除くだけで入れ替わり、正規分布の乱数より裾の重い分布に近い） |
+| [F179 欠測を埋める方法で、答えはどれだけ変わるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F179_imputation_by_estimand) | 多重代入（連鎖方程式・PMM）と単一代入・完全ケースの比較（3項目を30%欠かした1,740市区町村で、1つの値で埋めると割合は8.7%→6%に縮み、人口が小さい町ほど欠けると多重代入でも係数の符号が逆に。人口で分けて埋めると区間の当たり31%→87%） |
 
 ### ポートフォリオ
 
