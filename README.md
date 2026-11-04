@@ -173,6 +173,7 @@
 | [F159 出生数の予測を、毎月の速報で更新すると当たり方は変わるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F159_births_nowcast) | ナウキャスト（速報236回・概数184回を公表日どおりに並べて2012〜25年を再現。速報が1〜3か月分のうちは年初の予測より外れが大きく、11月には1.5%から0.5%まで縮む。外国人の出生を含む速報は同じ年の概数で直す必要があった） |
 | [F160 人口の将来推計を、自分で作るとどこまで合うか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F160_cohort_projection_backtest) | コーホート要因法の答え合わせ（1,681市区町村で自作の仮定を変えて2015・2020・2025年の国勢調査と比べると、5年先の外れは社人研1.7〜1.8%・自作1.8〜2.4%。外れる場所はほぼ同じで、自作の外れの8割は移動率の仮定から来ていた） |
 | [F161 同じデータで記事を書き直すと、結論はどれだけ変わるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F161_rewrite_old_articles) | 初期3本の作り直し（回帰・クラスタリング・時系列予測を今の手順でやり直すと、9つの点のうち変わったのは3つ。組み合わせ512通り・復元抽出・比べる相手の追加と差の検定が結論を動かした） |
+| [F162 公的データは「API で取れる」のか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F162_data_access_map) | 取得経路の集計（377記事の README と取得コードから、新しく取った428組の取り方を分類すると、ファイル67%・API 2%（日銀など9組）・記録なし25%。e-Stat 経由ほどファイルで取れ、後の記事ほど PDF・画面からが増えた） |
 | [F163 125本の看板記事で、いちばん効いた頑健性チェックは何だったか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F163_robustness_checks_review) | 頑健性チェックの効き目の集計（F01〜F125 の README を手作業で判定すると、結論が変わったのは113本中23本〈20%〉。いちばん多く使った「対象を絞る・除く」が結論を動かしたのは9%で、変数・モデル・期間を変えるチェック〈18〜20%〉の半分。上位の順は数え方で入れ替わった） |
 
 ### ポートフォリオ
