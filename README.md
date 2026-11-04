@@ -175,6 +175,7 @@
 | [F161 同じデータで記事を書き直すと、結論はどれだけ変わるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F161_rewrite_old_articles) | 初期3本の作り直し（回帰・クラスタリング・時系列予測を今の手順でやり直すと、9つの点のうち変わったのは3つ。組み合わせ512通り・復元抽出・比べる相手の追加と差の検定が結論を動かした） |
 | [F162 公的データは「API で取れる」のか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F162_data_access_map) | 取得経路の集計（377記事の README と取得コードから、新しく取った428組の取り方を分類すると、ファイル67%・API 2%（日銀など9組）・記録なし25%。e-Stat 経由ほどファイルで取れ、後の記事ほど PDF・画面からが増えた） |
 | [F163 125本の看板記事で、いちばん効いた頑健性チェックは何だったか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F163_robustness_checks_review) | 頑健性チェックの効き目の集計（F01〜F125 の README を手作業で判定すると、結論が変わったのは113本中23本〈20%〉。いちばん多く使った「対象を絞る・除く」が結論を動かしたのは9%で、変数・モデル・期間を変えるチェック〈18〜20%〉の半分。上位の順は数え方で入れ替わった） |
+| [F164 図をどう作ると、読まれ方が変わったか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F164_figures_and_reads) | 自分の note の公開数字の振り返り（公開済み34本のスキ・コメントと図の枚数・字数・タイトルの字数を、正確な区間・日数をオフセットにしたポアソン回帰で記述すると、図5枚以上の差は日数の扱いで4.6倍〜2.3倍と揺れ、図の枚数はタイトルの長さと重なっていて分けられなかった） |
 
 ### ポートフォリオ
 
