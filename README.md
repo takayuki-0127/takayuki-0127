@@ -179,6 +179,7 @@
 | [F165 データ分析の「再現できる形」は、どこまで作れたか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F165_reproducibility_audit) | 記事フォルダの再現性の監査（379本のコードと requirements.txt の棚卸しと、無作為に選んだ40本を新しい仮想環境で最初から動かし直して results/ と照合すると、数字が一致したのは33本。通常記事は20本すべて再現したが、看板記事でそのまま再現したのは20本中9本で、ずれた7本のうち3本は書いたときの環境なら一致した） |
 | [F166 公的統計の数字は、ベンフォードの法則に従っているか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F166_benford_public_stats) | ベンフォードの法則（市区町村の10系列は第1桁で「おおむね合う」以上、第2桁はすべて「よく合う」。約1,700件では本当にベンフォードに従う数でも先頭2桁は「ぎりぎり」と判定され、単位を換えるだけで判定が入れ替わる系列もあった） |
 | [F168 猛暑日の数は、どこまで増えたと言えるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F168_extreme_heat_trend) | 非定常の極値分布（気象庁30地点の125年で、年最高気温は30地点すべてで上昇〈中央値+1.7℃／100年〉、38℃以上の年は6.4倍。都市の影響と見分けられるのは約0.5℃） |
+| [F169 円安と株高は、大きく動く日にだけ一緒に動くのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F169_yen_stock_copula) | コピュラと裾の依存（1998〜2026年の7,062日で、上下2.5%どうしがそろう割合は円安×株高0.16・円高×株安0.25とガウスの0.10を上回るが、はっきり出たのは2007〜2012年。「大きく動いた日だけの相関」は選び方だけで高く出る） |
 | [F170 産業の構成比を比べるとき、割合のまま回帰してよいか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F170_compositional_industry_shares) | 組成データ・ilr（製造業の割合の係数は基準の産業しだいで−1.4%〜+7.9%と符号まで変わるが、ilr では+1.5%の1つに決まる。割合にするだけで負の相関が生まれる） |
 
 ### ポートフォリオ
