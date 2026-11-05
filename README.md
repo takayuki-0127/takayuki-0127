@@ -211,6 +211,7 @@
 | [F197 地区をまとめて選ぶと、精度はどれだけ落ちるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F197_cluster_sampling_deff) | クラスター抽出の設計効果（DEFF）と級内相関（ICC）、Kish の近似、地区の作り方による分解、単純無作為の式と地区を考えた式での95%区間の当たり（4,000回）（統計センター SSDSE-A 2026年版の1,729市区町村を母集団の代わりに使用。約120を隣り合う5つずつの地区で選ぶとDEFF2.2〜3.2・実質38〜54件分、単純無作為の式のままでは95%区間が64〜80%しか当たらない） |
 | [F198 調査は、何人に聞けば足りるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F198_sample_size_planning) | 必要な標本の大きさの計算（誤差の幅・標準誤差率・検出力）と、公表されている標準誤差からの設計効果・有効標本数の逆算、2万回のシミュレーション（労働力調査など5つの調査の公表資料を転記。精度の決め方で必要な人数は約100倍ちがい、労働力調査の毎月10万人は単純無作為の約7.1万人分） |
 | [F199 季節調整のやり方で、「景気の山」の時期は変わるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F199_seasonal_adjustment_turning_points) | X-13（X-11法／SEATS）・STL・移動平均・前年比で季節調整し直した山谷判定（簡略版 Bry–Boschan）と、判定ルール・データの終わり・推定期間の頑健性（鉱工業・雇用の5系列。公表値と同じ月は約半分、4か月以上のずれはほぼ同じ高さの山がもう1つあるときに起きた） |
+| [F200 200本の看板記事で使ったデータと手法は、どうつながっているか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F200_method_data_network) | 197本の README から手法95区分・データ59区分を辞書で取り出した記事×手法×データのネットワーク（共起・媒介中心性・コミュニティ）と、見込みとの比での「使われていない組み合わせ」、取り出す範囲・手作業の区分・辞書の間引きでの頑健性（いちばん多いのは道具、新しい手法は最初の40本で6割が出そろった） |
 
 ### ポートフォリオ
 
