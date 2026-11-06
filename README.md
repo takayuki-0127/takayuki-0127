@@ -219,6 +219,7 @@
 | [F205 予測モデルは、作る前に何を決め、外れをいくらと見て、いつ作り直すのか？（前編）](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F205_power_forecast_practice_part1) | 指標・締め切りで変わる順位、非対称な外れの値段と上乗せ幅のローリング評価、ずれの見張りルール（MAPE・ずれ平均・CUSUM）の空振りと検出の速さ |
 | [F206 予測は、エリアと合計をどうそろえ、どう見せ、1年回すと何が起きるのか？（後編）](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F206_power_forecast_practice_part2) | 階層の整合（ボトムアップ・トップダウン・OLS・WLS・MinT）と時間の階層、区間の当たり方の月別チェック、見張りの1年分、静的 HTML のダッシュボードの見本 |
 | [F207 地価はどこで上がり、駅ができると何が起きるのか？（前編）](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F207_landprice_series_part1) | 20年の変化の地図と特徴、説明の回帰と予測の LightGBM の比較（駅の効き方が比べ方で変わる）、新しい駅のイベントスタディと偽の開業 |
+| [F208 マンションの値段は地価とどう動き、地価の予測はどこで外れ続けるのか？（後編）](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F208_landprice_series_part2) | 品質をそろえた中古マンション指数と地価の連動（年の固定効果・築年数別）、毎年更新した地価予測の外れの地図と持ち越し（同じ地点で外れ続ける） |
 
 ### ポートフォリオ
 
