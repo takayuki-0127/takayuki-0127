@@ -218,6 +218,7 @@
 | [F204 出生の支援策は、結婚・第1子・第2子のどこに効いたのか？（後編）](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F204_births_marriage_series_part2) | 婚姻・出生順位別の段階ごとの比較、保育所等の定員との二方向固定効果、幼保無償化前後のイベントスタディ（前からの傾きを除く）、2040年の出生数のシナリオ（2015→23年は4段階とも25〜29%減、無償化後に増えて見えた第3子以上は前からの傾き、2040年は前提しだいで43万〜76万人） |
 | [F205 予測モデルは、作る前に何を決め、外れをいくらと見て、いつ作り直すのか？（前編）](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F205_power_forecast_practice_part1) | 指標・締め切りで変わる順位、非対称な外れの値段と上乗せ幅のローリング評価、ずれの見張りルール（MAPE・ずれ平均・CUSUM）の空振りと検出の速さ |
 | [F206 予測は、エリアと合計をどうそろえ、どう見せ、1年回すと何が起きるのか？（後編）](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F206_power_forecast_practice_part2) | 階層の整合（ボトムアップ・トップダウン・OLS・WLS・MinT）と時間の階層、区間の当たり方の月別チェック、見張りの1年分、静的 HTML のダッシュボードの見本 |
+| [F207 地価はどこで上がり、駅ができると何が起きるのか？（前編）](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F207_landprice_series_part1) | 20年の変化の地図と特徴、説明の回帰と予測の LightGBM の比較（駅の効き方が比べ方で変わる）、新しい駅のイベントスタディと偽の開業 |
 
 ### ポートフォリオ
 
