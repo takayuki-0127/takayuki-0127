@@ -238,7 +238,7 @@
 | [F244 集計の SQL は、どう書けば間違えにくいか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F244_sql_aggregation_pitfalls) | 集計の SQL でよくある誤り21個（JOIN の行の増え方・NULL・COUNT DISTINCT・日付と時間帯・ウィンドウ関数の範囲・整数の割り算）をわざと書き、商業動態統計と架空のネット書店の注文データ（シミュレーション）を DuckDB・SQLite に入れて、合計のずれと7つのテスト（照合・粒度・NULL・期間の網羅・小さなデータでの答え合わせ・値の範囲・エンジン間の一致）で見つかるかを確認、SQL Server 互換 SQL、集計チェック画面（架空の書店） |
 | [F245 1つの依頼に、1時間でどこまで答えられるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F245_one_hour_request) | 架空のドラッグストアの「8月−1.0%はうちだけ？」という依頼に60分の枠で答える流れ（問いの切り分け→データ→最初の答え→確かめる→会議用の1枚）を、商業動態統計の全国・地域・品目別の前年比と寄与、比べ方5通り、年間の着地（SARIMA・ETS・季節ナイーブ）で実演し、実際の時間も記録、SQL Server 互換 SQL の DuckDB 照合、1枚の HTML（架空のドラッグストア） |
 | [F246 分析担当として最初にやること：KPI を決める](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F246_kpi_definitions_fictional_retail) | 架空の食品スーパー（24店・4年分の合成データ、会社設定書とコードをシリーズで再利用）で KPI ツリー・営業利益の橋渡し・全店と既存店・粒度ごとの偶然の幅（乱数20回）・客数の定義と曜日補正を比べ、KPI を採点して定義書と KPI シートを作成、SQL Server 互換 SQL の DuckDB 照合（架空の会社） |
-| [F257 労働経済白書の「賃上げが広がった」は、どこまで言えるのか](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F257_wage_spillover_whitepaper) | 白書の記述を広さ・追いつき・パートへの届き方に分け、事前に書いた計画（PLAN.md）に沿って毎月勤労統計・賃金引上げ等の実態調査・最低賃金で検証。広さは言えるが一般労働者の規模の差は縮んでおらず、パートの時給は最低賃金とほぼ連動して小さい事業所で速く上がった（回帰・頑健性7種・再問い） |
+| [F257 労働経済白書の「賃上げが広がった」は、どこまで言えるのか](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F257_wage_spillover_whitepaper) | 白書の記述を広さ・追いつき・パートへの届き方に分け、事前に書いた計画（PLAN.md）に沿って毎月勤労統計・賃金引上げ等の実態調査・最低賃金で検証。広さは言えるが一般労働者の規模の差は縮んでおらず、パートの時給は最低賃金とほぼ連動し、2024〜25年は小さい事業所で速く上がった（回帰・頑健性9種・再問い・独立レビュー） |
 
 ### ポートフォリオ
 
