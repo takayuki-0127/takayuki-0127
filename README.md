@@ -223,6 +223,7 @@
 | [F209 この5年の値上がりは、どの品目から来て、誰に重く、家計は何を減らしたのか？（前編）](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F209_prices_household_series_part1) | CPI 582品目の寄与と財・サービスの分解、家計調査のウエイトによる世帯別の物価と差の費目分解、品目別の価格弾力性（年次と長い差） |
 | [F210 円安は品目の値段にどれだけ時間をかけて届き、物価の見通しは家計と企業でどれだけ違うのか？（後編）](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F210_prices_household_series_part2) | 品目別 CPI のドル円への局所射影（パススルー率と届く速さ）、偽の為替での確かめ、短観の企業と家計の物価見通しの比較 |
 | [F231 売上の予測は、何か月先まで役に立つのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F231_sales_forecast_horizon) | ローリング・オリジンで1〜24か月先の予測を評価（ETS・SARIMA・LightGBM と季節ナイーブ）、年間予算の外れ、SQL での検算、HTML ダッシュボード |
+| [F232 店の種類ごとの予測と全体の予測を、どうそろえるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F232_hierarchical_retail_reconciliation) | 商業動態統計の60系列（全体・6業態・48商品）の階層予測を7つの方法（ボトムアップ・トップダウン・OLS・WLS・MinT）でそろえてローリング評価、ブロック・ブートストラップ、SQL での検算、HTML ダッシュボード |
 | [F233 祝日・連休・天気は、売上をどれだけ動かすのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F233_calendar_weather_sales) | 商業動態統計の前年同月比を曜日・祝日・連休・うるう日と気温・雨に分ける回帰、R² のシャープレイ分解、期間外の確かめ、T-SQL／DuckDB の調整とダッシュボード |
 
 ### ポートフォリオ
