@@ -225,6 +225,7 @@
 | [F231 売上の予測は、何か月先まで役に立つのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F231_sales_forecast_horizon) | ローリング・オリジンで1〜24か月先の予測を評価（ETS・SARIMA・LightGBM と季節ナイーブ）、年間予算の外れ、SQL での検算、HTML ダッシュボード |
 | [F232 店の種類ごとの予測と全体の予測を、どうそろえるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F232_hierarchical_retail_reconciliation) | 商業動態統計の60系列（全体・6業態・48商品）の階層予測を7つの方法（ボトムアップ・トップダウン・OLS・WLS・MinT）でそろえてローリング評価、ブロック・ブートストラップ、SQL での検算、HTML ダッシュボード |
 | [F233 祝日・連休・天気は、売上をどれだけ動かすのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F233_calendar_weather_sales) | 商業動態統計の前年同月比を曜日・祝日・連休・うるう日と気温・雨に分ける回帰、R² のシャープレイ分解、期間外の確かめ、T-SQL／DuckDB の調整とダッシュボード |
+| [F234 価格を1%上げると、買われる量は何%減るのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F234_price_elasticity_practice) | 家計調査130品目の価格弾力性を推定の仕方別に比較、輸入物価を使った操作変数（2SLS）、交差弾力性、粗利率×値上げ幅の判断表、T-SQL／DuckDB の照合と値上げ判断ダッシュボード |
 
 ### ポートフォリオ
 
