@@ -226,6 +226,7 @@
 | [F232 店の種類ごとの予測と全体の予測を、どうそろえるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F232_hierarchical_retail_reconciliation) | 商業動態統計の60系列（全体・6業態・48商品）の階層予測を7つの方法（ボトムアップ・トップダウン・OLS・WLS・MinT）でそろえてローリング評価、ブロック・ブートストラップ、SQL での検算、HTML ダッシュボード |
 | [F233 祝日・連休・天気は、売上をどれだけ動かすのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F233_calendar_weather_sales) | 商業動態統計の前年同月比を曜日・祝日・連休・うるう日と気温・雨に分ける回帰、R² のシャープレイ分解、期間外の確かめ、T-SQL／DuckDB の調整とダッシュボード |
 | [F234 価格を1%上げると、買われる量は何%減るのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F234_price_elasticity_practice) | 家計調査130品目の価格弾力性を推定の仕方別に比較、輸入物価を使った操作変数（2SLS）、交差弾力性、粗利率×値上げ幅の判断表、T-SQL／DuckDB の照合と値上げ判断ダッシュボード |
+| [F235 在庫はどれだけ持てばよいのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F235_inventory_newsvendor) | 売上予測の外れ（実績÷予測）から発注の倍率を決めるニュースベンダー（臨界比）、5つの発注ルールを損の比別に比較、サービス率の検証、ブロック・ブートストラップ、T-SQL／DuckDB の照合とダッシュボード |
 
 ### ポートフォリオ
 
