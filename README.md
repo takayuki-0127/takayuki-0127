@@ -222,6 +222,7 @@
 | [F208 マンションの値段は地価とどう動き、地価の予測はどこで外れ続けるのか？（後編）](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F208_landprice_series_part2) | 品質をそろえた中古マンション指数と地価の連動（年の固定効果・築年数別）、毎年更新した地価予測の外れの地図と持ち越し（同じ地点で外れ続ける） |
 | [F209 この5年の値上がりは、どの品目から来て、誰に重く、家計は何を減らしたのか？（前編）](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F209_prices_household_series_part1) | CPI 582品目の寄与と財・サービスの分解、家計調査のウエイトによる世帯別の物価と差の費目分解、品目別の価格弾力性（年次と長い差） |
 | [F210 円安は品目の値段にどれだけ時間をかけて届き、物価の見通しは家計と企業でどれだけ違うのか？（後編）](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F210_prices_household_series_part2) | 品目別 CPI のドル円への局所射影（パススルー率と届く速さ）、偽の為替での確かめ、短観の企業と家計の物価見通しの比較 |
+| [F233 祝日・連休・天気は、売上をどれだけ動かすのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F233_calendar_weather_sales) | 商業動態統計の前年同月比を曜日・祝日・連休・うるう日と気温・雨に分ける回帰、R² のシャープレイ分解、期間外の確かめ、T-SQL／DuckDB の調整とダッシュボード |
 
 ### ポートフォリオ
 
