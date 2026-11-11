@@ -233,6 +233,7 @@
 | [F239 広告費は、売上にどれだけ効いているのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F239_marketing_mix_model) | 業界全体の月次データ（特定サービス産業動態統計「広告業」・商業動態統計）で広告と売上の関係と先後を確認、架空の会社のシミュレーションで MMM（アドストック・飽和）の ROI の当たり方・需要に合わせた広告費による過大評価・地域実験と実験で補正した MMM・予算配分を比較、T-SQL の再帰 CTE でアドストックを照合、予算配分のシミュレーター |
 | [F240 キャンペーンの効果を、比べる相手がないときにどう測るか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F240_campaign_effect_no_control) | 比べる群を作れない施策（大阪・関西万博と大阪府の日本人延べ宿泊者数）の効果を、前年比・中断時系列・合成対照・ベイズ構造時系列（CausalImpact 型）で比較、場所と時期のプラセボで方法を点検、周りの府県への波及、SQL Server 互換 SQL の DuckDB 照合、施策効果の報告ダッシュボード（架空の宿泊チェーン） |
 | [F241 顧客はどれくらいで離れていくのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F241_customer_churn_survival) | 架空の通信会社の公開サンプル（IBM Telco Customer Churn）で解約を生存分析（Kaplan–Meier・生命表・RMST・log-rank）、Cox 回帰（比例ハザードの検定・層別・学習と検証）、法人データのコホート表、LTV の外挿5通り（一定・指数・Weibull・対数正規・sBG）とブートストラップ、SQL Server 互換 SQL の DuckDB 照合、定着率ダッシュボード（架空の通信サービス） |
+| [F243 どの指標を見れば、売上の変化の理由が分かるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F243_kpi_tree_decomposition) | 売上の変化を KPI ツリーで分けるときの落とし穴（ツリーの切り方・分ける順番・構成）を、架空の書店のシミュレーション（シンプソンのパラドックス、シャープレイ値・LMDI）、家計調査の値段と量・構成と率の分解（4つの方法）、商業動態統計の全店と既存店で確認、SQL Server 互換 SQL の DuckDB 照合、KPI ツリーのダッシュボード（架空の書店） |
 
 ### ポートフォリオ
 
