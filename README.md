@@ -227,6 +227,7 @@
 | [F233 祝日・連休・天気は、売上をどれだけ動かすのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F233_calendar_weather_sales) | 商業動態統計の前年同月比を曜日・祝日・連休・うるう日と気温・雨に分ける回帰、R² のシャープレイ分解、期間外の確かめ、T-SQL／DuckDB の調整とダッシュボード |
 | [F234 価格を1%上げると、買われる量は何%減るのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F234_price_elasticity_practice) | 家計調査130品目の価格弾力性を推定の仕方別に比較、輸入物価を使った操作変数（2SLS）、交差弾力性、粗利率×値上げ幅の判断表、T-SQL／DuckDB の照合と値上げ判断ダッシュボード |
 | [F235 在庫はどれだけ持てばよいのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F235_inventory_newsvendor) | 売上予測の外れ（実績÷予測）から発注の倍率を決めるニュースベンダー（臨界比）、5つの発注ルールを損の比別に比較、サービス率の検証、ブロック・ブートストラップ、T-SQL／DuckDB の照合とダッシュボード |
+| [F236 A/B テストは、何人集めれば「差」が分かるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F236_ab_test_sample_size) | 2つの割合の差の検定の必要な人数・検出力・4週間で見つけられる最小の差（MDE）、二項分布のシミュレーションでの確認、人数不足で有意になった差の誇張（タイプM・S）、金額の指標とウィンザー化、SQL Server 互換 SQL の照合と計算ツール |
 
 ### ポートフォリオ
 
