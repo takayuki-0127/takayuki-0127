@@ -240,6 +240,7 @@
 | [F246 分析担当として最初にやること：KPI を決める](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F246_kpi_definitions_fictional_retail) | 架空の食品スーパー（24店・4年分の合成データ、会社設定書とコードをシリーズで再利用）で KPI ツリー・営業利益の橋渡し・全店と既存店・粒度ごとの偶然の幅（乱数20回）・客数の定義と曜日補正を比べ、KPI を採点して定義書と KPI シートを作成、SQL Server 互換 SQL の DuckDB 照合（架空の会社） |
 | [F256 自然災害の保険金は、この30年でどれだけ大きくなったのか](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F256_natural_disaster_insurance_payouts) | 日本損害保険協会の上位10事故と事故ごとの調査結果（2012〜2025年度、35事故）を、建設工事費デフレーターと住宅数で割り引き、事前に書いた計画（PLAN.md）に沿って比較。最大の事故どうしは名目1.88倍が割り引くと1.14倍、取りこぼしのない足切りで数えた大きな事故は22年で3件→13年で5件だが偶然と区別できず、1件あたりの重さは時代より災害の種類で決まる（頻度×重さの分解・頑健性10種・再問い・レビュー） |
 | [F257 労働経済白書の「賃上げが広がった」は、どこまで言えるのか](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F257_wage_spillover_whitepaper) | 白書の記述を広さ・追いつき・パートへの届き方に分け、事前に書いた計画（PLAN.md）に沿って毎月勤労統計・賃金引上げ等の実態調査・最低賃金で検証。広さは言えるが一般労働者の規模の差は縮んでおらず、パートの時給は最低賃金とほぼ連動し、2024〜25年は小さい事業所で速く上がった（回帰・頑健性9種・再問い・独立レビュー） |
+| [F258 「実質賃金○か月連続マイナス」は、どの物価で割るかで変わるのか](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F258_real_wage_deflator_streak) | 名目賃金を割る物価を6通りに変え、事前に書いた計画（PLAN.md）に沿って毎月勤労統計と消費者物価指数で連続マイナスを数え直し、公表値とも照合。最長の連続は物価で11〜16か月と動くが、賞与を除くと30か月に延び、物価より賃金の選び方のほうが長さを動かした（頑健性5種・再問い） |
 
 ### ポートフォリオ
 
