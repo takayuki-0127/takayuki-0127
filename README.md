@@ -228,6 +228,7 @@
 | [F234 価格を1%上げると、買われる量は何%減るのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F234_price_elasticity_practice) | 家計調査130品目の価格弾力性を推定の仕方別に比較、輸入物価を使った操作変数（2SLS）、交差弾力性、粗利率×値上げ幅の判断表、T-SQL／DuckDB の照合と値上げ判断ダッシュボード |
 | [F235 在庫はどれだけ持てばよいのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F235_inventory_newsvendor) | 売上予測の外れ（実績÷予測）から発注の倍率を決めるニュースベンダー（臨界比）、5つの発注ルールを損の比別に比較、サービス率の検証、ブロック・ブートストラップ、T-SQL／DuckDB の照合とダッシュボード |
 | [F236 A/B テストは、何人集めれば「差」が分かるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F236_ab_test_sample_size) | 2つの割合の差の検定の必要な人数・検出力・4週間で見つけられる最小の差（MDE）、二項分布のシミュレーションでの確認、人数不足で有意になった差の誇張（タイプM・S）、金額の指標とウィンザー化、SQL Server 互換 SQL の照合と計算ツール |
+| [F237 A/B テストを途中で見ると、何がまずいのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F237_ab_test_peeking_sequential) | 途中で見る回数と誤検出（ピーキング）のシミュレーション、O'Brien-Fleming・Pocock の α 消費関数による群逐次検定、いつ見てもよい p 値（mSPRT）、止めたときの差の誇張、止め方のルール表、SQL Server 互換 SQL の照合とダッシュボード |
 | [F238 前の期間のデータを使うと、テストはどれだけ早く終わるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F238_ab_test_cuped) | テストの前の期間の値で調整する CUPED を差の差・回帰調整・層別と比較（SSDSE 1,729市区町村の模擬テストと架空サービスのシミュレーション）、前の期間の長さ・新規の割合・ウィンザー化、テスト中の値で調整する落とし穴、SQL Server 互換 SQL の照合と必要日数の計算ツール |
 
 ### ポートフォリオ
