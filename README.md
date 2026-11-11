@@ -230,6 +230,7 @@
 | [F236 A/B テストは、何人集めれば「差」が分かるのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F236_ab_test_sample_size) | 2つの割合の差の検定の必要な人数・検出力・4週間で見つけられる最小の差（MDE）、二項分布のシミュレーションでの確認、人数不足で有意になった差の誇張（タイプM・S）、金額の指標とウィンザー化、SQL Server 互換 SQL の照合と計算ツール |
 | [F237 A/B テストを途中で見ると、何がまずいのか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F237_ab_test_peeking_sequential) | 途中で見る回数と誤検出（ピーキング）のシミュレーション、O'Brien-Fleming・Pocock の α 消費関数による群逐次検定、いつ見てもよい p 値（mSPRT）、止めたときの差の誇張、止め方のルール表、SQL Server 互換 SQL の照合とダッシュボード |
 | [F238 前の期間のデータを使うと、テストはどれだけ早く終わるか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F238_ab_test_cuped) | テストの前の期間の値で調整する CUPED を差の差・回帰調整・層別と比較（SSDSE 1,729市区町村の模擬テストと架空サービスのシミュレーション）、前の期間の長さ・新規の割合・ウィンザー化、テスト中の値で調整する落とし穴、SQL Server 互換 SQL の照合と必要日数の計算ツール |
+| [F240 キャンペーンの効果を、比べる相手がないときにどう測るか？](https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F240_campaign_effect_no_control) | 比べる群を作れない施策（大阪・関西万博と大阪府の日本人延べ宿泊者数）の効果を、前年比・中断時系列・合成対照・ベイズ構造時系列（CausalImpact 型）で比較、場所と時期のプラセボで方法を点検、周りの府県への波及、SQL Server 互換 SQL の DuckDB 照合、施策効果の報告ダッシュボード（架空の宿泊チェーン） |
 
 ### ポートフォリオ
 
